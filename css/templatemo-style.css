@@ -867,3 +867,16 @@ textarea.form-control {
   background-color: #fff;
   border-radius: 3px;
 }
+
+
+/* Tech Stacks */
+.icon-stack {
+    font-size: 34px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.icon-stack div {
+    margin-right: 10px; /* Adjust the spacing between icons */
+}
