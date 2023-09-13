@@ -880,3 +880,8 @@ textarea.form-control {
 .icon-stack div {
     margin-right: 10px; /* Adjust the spacing between icons */
 }
+
+.techStack{
+  display: flex;
+  justify-content: space-around;
+}
